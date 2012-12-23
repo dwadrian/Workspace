@@ -1,0 +1,9 @@
+.card, .search, .RadGrid, .RadScheduler, .smallButton, .errorPanel, .successPanel, .informationPanel, .pageHeader {
+    border: solid 1px #CCC;
+}
+
+/* 
+---
+Insert project-specific code after this mark 
+---
+*/
